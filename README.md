@@ -14,7 +14,7 @@ Demo
 
 ### Interactive
 
-<https://clipboard2markdown.gong.git.xin
+<https://clipboard2markdown.gong.git.xin>
 
 ### Video
 
