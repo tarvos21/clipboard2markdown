@@ -14,7 +14,7 @@ Demo
 
 ### Interactive
 
-<http://euangoddard.github.io/clipboard2markdown/>
+<https://clipboard2markdown.gong.git.xin
 
 ### Video
 
